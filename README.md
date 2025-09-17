@@ -5,11 +5,11 @@ Built a secure Internet gateway by integrating Cisco LAN with a FortiGate firewa
 Table of contents
 - Overview
 * Network Topology
-+IP Addressing
--Configurations
--Testing and Troubleshooting
++ IP Addressing
+- Configurations
+* Testing and Troubleshooting
 
-<ins>underlined</ins> NETWORK TOPOLOGY
+# NETWORK TOPOLOGY
 <img width="1047" height="823" alt="image" src="https://github.com/user-attachments/assets/377371d7-d305-4629-9dec-3b299d723455" />
 
 
