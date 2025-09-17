@@ -29,7 +29,7 @@ Table of contents
 
 # Adding the Cisco 3745 as an EtherSwitch
 1. Add the **Cisco 3745** router to the worksheet   
-2. Insert the **NM-16ESW module** in the configure template section to enable switch functionality.  
+2. Insert the **NM-16ESW module** in the configure section and the slot to enable switch functionality.  
 3. This converts the 3745 into an **EtherSwitch router** with 16 Ethernet switch ports, effectively functioning as the project’s LAN switch.
 
 
