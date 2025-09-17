@@ -6,11 +6,19 @@ Table of contents
 - Overview
 * Network Topology
 + IP Addressing
-- Configurations
-* Testing and Troubleshooting
+- Networking Devices Setup
+* Connecting Fortigate Firewall to Cloud node to access Internet
++ Switch VLAN Configuration 
+- DHCP Server Configuration
+- Alpine Linux Clients dynamically getting IP addresses
+* Firewall Addressing Configuration (Web-filtering : Block access to "Facebook" and "YouTube")
++ Firewall Policy Configuration
 
 # NETWORK TOPOLOGY
-<img width="1047" height="823" alt="image" src="https://github.com/user-attachments/assets/377371d7-d305-4629-9dec-3b299d723455" />
+<img width="1002" height="830" alt="image" src="https://github.com/user-attachments/assets/b19746fc-328b-4d64-ae8f-c4138ebb3c59" />
+
+
+
 
 
 
